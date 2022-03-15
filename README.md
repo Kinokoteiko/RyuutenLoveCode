@@ -5,4 +5,4 @@ Skills: PYTHON / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
-![In the dark](https://spotify-recently-played-readme.vercel.app/api?user=j09nz6beges7whgyuamn5bnru)
+![In the dark](https://spotify-recently-played-readme.vercel.app/api?user=j09nz6beges7whgyuamn5bnru)   ![LOL](https://spotify-recently-played-readme.vercel.app/api?user=j09nz6beges7whgyuamn5bnru&unique={true|1|on|yes})
