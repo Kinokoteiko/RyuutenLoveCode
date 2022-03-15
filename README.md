@@ -1,4 +1,4 @@
-### Hi there 👋, my i'm ryuuten
+### Hi there 👋, i'm Ryuuten
 #### I'm beginner developer
 
 Skills: PYTHON / JS / HTML / CSS
