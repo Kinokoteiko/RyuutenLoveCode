@@ -6,8 +6,8 @@ Skills: PYTHON / JS / HTML / CSS
 - 🔭 I’m currently working on this page.
 
 <p align="center">
-  <a href="https://gist.github.com/traumverloren/<HASH>">
-    <img src="<YOUR IMAGE PATH GOES HERE!>" alt="Click here to sign my guestbook!">
+  <a href="https://gist.github.com/7a5dfddf7ddd2ea846f6ff7414ef5ed3.git">
+    <alt="Click here to sign my guestbook!">
   </a>
 </p> 
 
