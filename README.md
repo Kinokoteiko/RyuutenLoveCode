@@ -7,7 +7,7 @@ Skills: PYTHON / JS / HTML / CSS
 
 <p align="center">
   <a href="https://gist.github.com/7a5dfddf7ddd2ea846f6ff7414ef5ed3.git">
-    <p>Beginner developer.</p> Click here to sign my guestbook!
+    <p></p> Click here to sign my guestbook!
   </a>
 </p>
 
