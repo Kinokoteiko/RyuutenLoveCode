@@ -7,7 +7,7 @@ Skills: PYTHON / JS / HTML / CSS
 
 <p align="center">
   <a href="https://gist.github.com/7a5dfddf7ddd2ea846f6ff7414ef5ed3.git">
-    <img src="<https://cdn.discordapp.com/attachments/953314605243985970/953672922835325049/pMKwxaFLCoVCsat2hL9zk-KSEBn4tSh54wWafzqjq3M.png>" alt="Click here to sign my guestbook!">
+    <img src="<https://gist.github.com/2cf5b7fed72b73625db57198eeb5114f.git>" alt="Click here to sign my guestbook!">
   </a>
 </p>
 
