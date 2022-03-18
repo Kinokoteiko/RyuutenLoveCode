@@ -11,4 +11,6 @@ Skills: PYTHON / JS / HTML / CSS
   </a>
 </p>
 
+<a href="https://www.buymeacoffee.com/ryuuten" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ![In the dark](https://spotify-recently-played-readme.vercel.app/api?user=j09nz6beges7whgyuamn5bnru)   [![ZORT](https://lanyard.cnrad.dev/api/921438773743591465)](https://discord.com/users/921438773743591465)
