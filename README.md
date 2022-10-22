@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://gist.github.com/7a5dfddf7ddd2ea846f6ff7414ef5ed3.git">
-    <p>https://gist.github.com/RyuutenLoveCode/7a5dfddf7ddd2ea846f6ff7414ef5ed3</p> Click here to sign my guestbook!
+    <p></p> Click here to sign my guestbook!
   </a>
 </p>
 
