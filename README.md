@@ -10,4 +10,4 @@
 
 <a href="https://www.buymeacoffee.com/ryuuten" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-![In the dark](https://spotify-recently-played-readme.vercel.app/api?user=31t5gpropmiczifolox4zvawyiju)   [![ZORT](https://lanyard.cnrad.dev/api/921438773743591465)](https://discord.com/users/921438773743591465)
+![In the dark](https://spotify-recently-played-readme.vercel.app/api?user=31t5gpropmiczifolox4zvawyiju)   [![ZORT](https://lanyard.cnrad.dev/api/1076561896603406357)](https://discord.com/users/1076561896603406357)
