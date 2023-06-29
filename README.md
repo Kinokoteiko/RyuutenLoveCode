@@ -1,10 +1,10 @@
-'''
+```js
 const Ryuuten = {
   pronouns: "he" | "him" ,
   code: [Javascript, HTML, C++, C#, TS],
   tools: [Node],
 }
-'''
+```
 
 <p align="center">
   <a href="https://gist.github.com/7a5dfddf7ddd2ea846f6ff7414ef5ed3.git">
